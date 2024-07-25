@@ -1,5 +1,5 @@
 
--- Firts create DataBase with name mydbcompany in POSTGRESQL
+-- Firts create DataBase with name mydbpostgres in POSTGRESQL
 
 CREATE TABLE products (
   id SERIAL PRIMARY KEY,
